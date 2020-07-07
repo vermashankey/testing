@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "post": [
       { "id": 1, "email": "af1@test.com", "batchid": "bd1", "product": "product1", "name": "Tiger Nixon", "phone": "phone1", "geography": "City1 | Location1", "date": "date1" },
       { "id": 2, "email": "af2@test.com", "batchid": "bd2", "product": "product2", "name": "Garrett Winters", "phone": "phone2", "geography": "City2 | Location2", "date": "date2" },
       { "id": 3, "email": "af3@test.com", "batchid": "bd3", "product": "product3", "name": "Ashton Cox", "phone": "phone3", "geography": "City3 | Location3", "date": "date3" },
