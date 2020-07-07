@@ -1,13 +1,13 @@
 {
   "posts": [
-      { email: "af1@test.com", batchid: "bd1", product: "product1", name: "Tiger Nixon", phone: "phone1", geography: "City1 | Location1", date: "date1" },
-      { email: "af2@test.com", batchid: "bd2", product: "product2", name: "Garrett Winters", phone: "phone2", geography: "City2 | Location2", date: "date2" },
-      { email: "af3@test.com", batchid: "bd3", product: "product3", name: "Ashton Cox", phone: "phone3", geography: "City3 | Location3", date: "date3" },
-      { email: "af4@test.com", batchid: "bd4", product: "product4", name: "Cedric Kelly", phone: "phone4", geography: "City4 | Location4", date: "date4" },
-      { email: "af5@test.com", batchid: "bd5", product: "product5", name: "Airi Satou", phone: "phone5", geography: "City5 | Location5", date: "date5" },
-      { email: "af6@test.com", batchid: "bd6", product: "product6", name: "Brielle Williamson", phone: "phone6", geography: "City6 | Location6", date: "date6" },
-      { email: "af7@test.com", batchid: "bd7", product: "product7", name: "Herrod Chandler", phone: "phone7", geography: "City7 | Location7", date: "date7" },
-      { email: "af8@test.com", batchid: "bd8", product: "product8", name: "Rhona Davidson", phone: "phone8", geography: "City8 | Location8", date: "date8" },
-      { email: "af9@test.com", batchid: "bd9", product: "product9", name: "Colleen Hurst", phone: "phone9", geography: "City9 | Location9", date: "date9" }
+      { "email": "af1@test.com", "batchid": "bd1", "product": "product1", "name": "Tiger Nixon", "phone": "phone1", "geography": "City1 | Location1", "date": "date1" },
+      { "email": "af2@test.com", "batchid": "bd2", "product": "product2", "name": "Garrett Winters", "phone": "phone2", "geography": "City2 | Location2", "date": "date2" },
+      { "email": "af3@test.com", "batchid": "bd3", "product": "product3", "name": "Ashton Cox", "phone": "phone3", "geography": "City3 | Location3", "date": "date3" },
+      { "email": "af4@test.com", "batchid": "bd4", "product": "product4", "name": "Cedric Kelly", "phone": "phone4", "geography": "City4 | Location4", "date": "date4" },
+      { "email": "af5@test.com", "batchid": "bd5", "product": "product5", "name": "Airi Satou", "phone": "phone5", "geography": "City5 | Location5", "date": "date5" },
+      { "email": "af6@test.com", "batchid": "bd6", "product": "product6", "name": "Brielle Williamson", "phone": "phone6", "geography": "City6 | Location6", "date": "date6" },
+      { "email": "af7@test.com", "batchid": "bd7", "product": "product7", "name": "Herrod Chandler", "phone": "phone7", "geography": "City7 | Location7", "date": "date7" },
+      { "email": "af8@test.com", "batchid": "bd8", "product": "product8", "name": "Rhona Davidson", "phone": "phone8", "geography": "City8 | Location8", "date": "date8" },
+      { "email": "af9@test.com", "batchid": "bd9", "product": "product9", "name": "Colleen Hurst", "phone": "phone9", "geography": "City9 | Location9", "date": "date9" }
   ]
 }
